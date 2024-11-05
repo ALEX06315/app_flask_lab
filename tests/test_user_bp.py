@@ -2,7 +2,7 @@ import unittest
 from app import app
 
 
-class TestFlaskAppTestCase(unittest.TestCase):
+class FlaskAppTestCase(unittest.TestCase):
     def setUp(self):
         app.config["TESTING"] = True
         self.client = app.test_client()
