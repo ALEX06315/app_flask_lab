@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Sport",
+    "content": "Win a competition",
+    "category": "lifestyle",
+    "is_active": true,
+    "publication_date": "2024-12-04",
+    "author": "student"
+  },
+  {
+    "id": 1,
+    "title": "asdg",
+    "content": "sdaf",
+    "category": "tech",
+    "is_active": true,
+    "publication_date": "2024-12-04",
+    "author": "unauthorized"
+  }
+]
