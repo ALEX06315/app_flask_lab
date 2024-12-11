@@ -16,5 +16,14 @@
     "is_active": true,
     "publication_date": "2024-12-09",
     "author": "unauthorized"
+  },
+  {
+    "id": 0,
+    "title": "My first post",
+    "content": "This my first post and I hope it will be usable to you",
+    "category": "lifestyle",
+    "is_active": true,
+    "publication_date": "2024-12-09",
+    "author": "student"
   }
 ]
